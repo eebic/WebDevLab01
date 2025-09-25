@@ -1,13 +1,13 @@
 import streamlit as st
 
 # Title of App
-st.title("Web Development Lab01")
+st.title("💻 Web Development Lab01 💻")
 
 # Assignment Data 
 
 st.header("CS 1301")
 st.subheader("Web Development - Section D")
-st.subheader("Jenna Tran | GTID# 904121767")
+st.subheader("✨ Jenna Tran | GTID# 904121767 🐝")
 
 
 # Introduction
