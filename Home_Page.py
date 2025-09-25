@@ -16,10 +16,12 @@ st.subheader("✨ Jenna Tran | GTID# 904121767 🐝")
 #       2. **Buzzfeed_Quiz**: This page contains a Buzzfeed style quiz with customized features, questions, and fuctions. The quiz theme is "Which 'The Summer I Turned Pretty' Character are you?". 
 
 st.write("""
-Welcome to our Streamlit Web Development Lab01 app! You can navigate between the pages using the sidebar to the left. The following pages are:
+Welcome to my Web Development Lab01 app! You can navigate between the pages using the sidebar on the left. The following pages are:
 
 1. Portfolio
+- This page includes an e-portfolio of my education, experiences, and projects.
 2. Buzzfeed_Quiz
+- This page consists of a Buzzfeed-style quiz. The quiz theme is "Which Character are you in 'The Summer I Turned Pretty'?".
 
 """)
 
